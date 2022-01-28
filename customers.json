@@ -1,0 +1,22 @@
+[
+  {
+    "fname": "Bobby",
+    "lname": "Flay",
+    "address": "123 Lala St",
+    "billing address": "7035 Beracasa Way Unit 207"
+  },
+
+  {
+    "fname": "Jacob",
+    "lname": "Phills",
+    "address": "444 Nikeway St",
+    "billing address": "7035 Beracasa Way Unit 207"
+  },
+
+  {
+    "fname": "Micky",
+    "lname": "Gills",
+    "address": "678 Charles St",
+    "billing address": "7035 Beracasa Way Unit 207"
+  }
+]
